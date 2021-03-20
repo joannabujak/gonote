@@ -1,7 +1,39 @@
-p {
-color:blue;
+
+
+
+
+input {
+	border-radius: 5px;
+	border: 1px solid grey;
+padding: 3px 5px;
+margin-bottom: 10px;
+
 }
 
-h2 {
-color:green;
+img { 
+border-radius: 50%;
+border: 2px solid #54C03F;
 }
+
+body {
+	font-family: Arial;
+}
+
+h1, h2 {
+color: green;
+font-variant: small-caps;
+}
+
+.main-header {
+	background-color: #D1FAD2;
+padding: 10px;
+}
+
+a {
+color: darkgreen;
+font-weight: bold;
+text-decoration: none;
+}
+
+
+
